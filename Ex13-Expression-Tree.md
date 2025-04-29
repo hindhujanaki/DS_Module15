@@ -55,6 +55,7 @@ postOrder(tree->r);
 printf("%c",tree->d); 
 } 
 }
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/8a79aa6e-917e-4b7e-9d16-c42c18bdfd50)
 
